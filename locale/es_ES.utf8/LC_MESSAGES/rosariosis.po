@@ -907,7 +907,7 @@ msgstr "Número de Teléfono"
 #: modules/Users/includes/General_Info.inc.php:129 modules/misc/Export.php:169
 #: modules/misc/Export.php:480 plugins/Moodle/config.inc.php:104
 msgid "Username"
-msgstr "Nombre de Usuario"
+msgstr "rNombre de Usuario"
 
 #: functions/Date.php:296 functions/Date.php:299 functions/Date.php:335
 #: functions/Date.php:338 functions/Date.php:378 functions/Date.php:381
